@@ -1,0 +1,3 @@
+Creating this file to showcase merge conflicts. 
+With merge conflicts, some lines will not cohesively work together. This line will be an example of this!
+Other times, the lines will still match up, which will not cause issues for Git to figure out. 
